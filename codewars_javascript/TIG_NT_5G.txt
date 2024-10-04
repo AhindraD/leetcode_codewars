@@ -1,0 +1,5 @@
+TIG_NT_5G
+Tig@1566
+
+
+Try again!  ```json{  "SIMILARITY": "NO",  "SIMILARITY_SCORE": 20,  "DIFFERENCE_COMMENT": "The image submitted by the student is different from the benchmark image in terms of the components present in the image and the context of the result in the benchmark image."}```
